@@ -45,7 +45,7 @@ public class ControllerLogicTest {
     public void testGetName() {
        ControllerLogic cl= new ControllerLogic();
         String name = cl.getName();
-        assertEquals(name,"you did it");
+        assertEquals(name,"Runing in openShift");
     }
     
 }
