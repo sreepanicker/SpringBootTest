@@ -17,7 +17,7 @@ public class ControllerLogic {
     @RequestMapping("/")
     
     public String getName(){
-        return "Runing in openShift v3";
+        return "Runing in openShift v4";
     }
     
 }
