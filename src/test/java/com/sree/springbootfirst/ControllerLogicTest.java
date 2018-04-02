@@ -45,7 +45,7 @@ public class ControllerLogicTest {
     public void testGetName() {
        ControllerLogic cl= new ControllerLogic();
         String name = cl.getName();
-        assertEquals(name,"Runing in openShift v4");
+        assertEquals(name,"Runing in openShift v5");
     }
     
 }
